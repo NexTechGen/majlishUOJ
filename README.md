@@ -1,3 +1,7 @@
+
+![logo](https://github.com/user-attachments/assets/4e060618-2668-44c0-80cc-82ce50d4b26f)
+# MISLIM MAJLIS - UNIVERSITY OF JAFFNA
+
 ## January prayer time
 ![January prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/01_january.png?raw=true)
 
