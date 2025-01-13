@@ -1,5 +1,5 @@
 
-![logo](https://github.com/user-attachments/assets/4e060618-2668-44c0-80cc-82ce50d4b26f)
+<img src="https://github.com/user-attachments/assets/4e060618-2668-44c0-80cc-82ce50d4b26f" alt="logo" width="200" />
 # MISLIM MAJLIS - UNIVERSITY OF JAFFNA
 
 ## January prayer time
