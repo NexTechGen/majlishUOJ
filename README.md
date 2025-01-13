@@ -1,6 +1,8 @@
-# MISLIM MAJLIS - UNIVERSITY OF JAFFNA
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/4e060618-2668-44c0-80cc-82ce50d4b26f" alt="logo" style="width: 100px; margin-right: 20px;" />
+  <h1>MISLIM MAJLIS - UNIVERSITY OF JAFFNA</h1>
+</div>
 
-<img src="https://github.com/user-attachments/assets/4e060618-2668-44c0-80cc-82ce50d4b26f" alt="logo" width="200" />
 
 ## January prayer time
 ![January prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/01_january.png?raw=true)
