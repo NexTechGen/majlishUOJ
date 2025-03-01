@@ -11,7 +11,7 @@
 ![February prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/02_February.png?raw=true)
 
 ## March prayer time
-![March prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/03_March.png?raw=true)
+![March prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/03_March.png)
 
 ## April prayer time
 ![April prayer time](https://github.com/NexTechGen/majlishUOJ/blob/main/post/04_April.png?raw=true)
